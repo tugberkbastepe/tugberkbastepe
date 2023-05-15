@@ -1,3 +1,6 @@
+<h1 align="center">TUGBERK BASTEPE</h1>
+<h3 align="center">Aspiring AI/ML Engineer<span color="blue"> & </span> Bsc. Mathematics graduate, Bogazici University, #1 state univ. of Turkey</h3>
+
 ### Hi there 👋
 
 <!--
