@@ -1,5 +1,5 @@
 <h1 align="center">TUGBERK BASTEPE</h1>
-<h3 align="center"><span color="blue"> R&D in Kyndryl & </span> Aspiring AI/ML Engineer & </span> Bsc. Mathematics graduate, Bogazici University, #1 state univ. of Turkey</h3>
+<h3 align="center"><span color="blue"> R&D in Kyndryl & </span> Aspiring AI/ML/DL Engineer & </span> Bsc. Mathematics graduate, Bogazici University, #1 state univ. of Turkey</h3>
 
 ### Hi there 👋
 
