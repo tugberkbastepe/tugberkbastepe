@@ -2,7 +2,7 @@
 <h3 align="center"><span color="blue"> R&D Engineer @ Kyndryl. Aspiring AI/ML/DL Engineer & </span> Bsc. Mathematics graduate, Bogazici University, #1 state univ. of Turkey</h3>
 
 ### Hi there 👋
-<p> 🔭 I’m currently working on a Q&A LLM chatbot over documents, 100% privately, no data leaks. Use cases include but are not limited to reducing troubleshooting time spent by IT staff. </p>
+<p> 🔭 I’m currently working on a Q&A LLM chatbot over documents which is run locally without any data leaks. Use cases include but are not limited to reducing troubleshooting time spent by IT staff. </p>
 <p>🌱 I’m currently learning Python and its libraries, frameworks, modules , Machine Learning, NLP techniques, LLMs, chatbots, and AWS SageMaker</p>
 
 
