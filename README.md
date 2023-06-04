@@ -2,14 +2,16 @@
 <h3 align="center"><span color="blue"> R&D Engineer @ Kyndryl. Aspiring AI/ML/DL Engineer & </span> Bsc. Mathematics graduate, Bogazici University, #1 state univ. of Turkey</h3>
 
 ### Hi there 👋
+🔭 I’m currently working on a Q&A LLM chatbot over documents, 100% privately, no data leaks. Use cases include but are not limited to reducing troubleshooting time spent by IT staff.
+🌱 I’m currently learning Python and its libraries, frameworks, modules , Machine Learning, NLP techniques, LLMs, chatbots, and AWS SageMaker
 
 <!--
 **tugberkbastepe/tugberkbastepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on a Q&A LLM chatbot over documents, 100% privately, no data leaks 
+- 🌱 I’m currently learning Python, NLP, AWS SageMaker
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
