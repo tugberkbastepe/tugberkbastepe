@@ -5,10 +5,13 @@
 <p> 🔭 I’m currently working on a Q&A LLM chatbot over documents, 100% privately, no data leaks. Use cases include but are not limited to reducing troubleshooting time spent by IT staff. </p>
 <p>🌱 I’m currently learning Python and its libraries, frameworks, modules , Machine Learning, NLP techniques, LLMs, chatbots, and AWS SageMaker</p>
 
+
 <!--
 **tugberkbastepe/tugberkbastepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+<p>📫 How to reach me: ...</p><a href="https://www.w3schools.com">LinkedIn</a>
 
 - 🔭 I’m currently working on a Q&A LLM chatbot over documents, 100% privately, no data leaks 
 - 🌱 I’m currently learning Python, NLP, AWS SageMaker
