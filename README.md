@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 <p> 🔭 I’m currently working on a Q&A LLM chatbot over documents which is run locally without any data leaks. Use cases include but are not limited to reducing troubleshooting time spent by IT staff. </p>
-<p>🌱 I’m currently learning Python and its libraries, frameworks, modules, NLP techniques, LLMs, chatbots, Quantum Computing, and Cryptography</p>
+<p>🌱 I’m currently learning Python and its libraries, frameworks, modules, NLP techniques, LLMs, chatbots, Quantum Computing, and AI safety</p>
 
 
 <!--
