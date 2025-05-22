@@ -3,7 +3,8 @@
 
 ### Hi there 👋
 <p> 🔭 I'm single-handedly building a Q&A LLM chatbot with RAG over documents, 100% privately, with no data leaks. Use cases include but are not limited to reducing troubleshooting time (500% and more) spent by IT staff, automating ~70% of the backup & recovery tool Veeam error handling process, and smooth know-how sharing between team members. </p>
-<p>🌱 I’m currently learning Python and its libraries, frameworks, modules, NLP techniques, LLMs, chatbots, Quantum Computing, and AI safety</p>
+
+<p>🌱 I’m currently learning Python, improving my Linux, networking, cloud, containerization, cloud, DevOps skills.</p>
 
 
 <!--
